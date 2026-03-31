@@ -3,3 +3,8 @@ numpy
 matplotlib
 seaborn
 jinja2
+statsmodels
+scikit-learn
+
+# pip install -r requirements.txt
+
